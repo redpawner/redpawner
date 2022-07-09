@@ -25,7 +25,7 @@
 ### Data
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/MongoDB-EEEEEE?style=for-the-badge&logo=mongodb" alt="MongoDB"/></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/></a>
 <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=#FFCC30" alt="Apollo"/></a>
 <br>
