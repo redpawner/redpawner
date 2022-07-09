@@ -24,7 +24,7 @@ I'm a full stack Javascript developer passionate about all things coding. Here a
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
 <br>
 
-### Data
+### Databases
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/MongoDB-EEEEEE?style=for-the-badge&logo=mongodb" alt="MongoDB"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
