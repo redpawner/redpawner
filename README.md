@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Ray. Welcome to my Github profile!
+### Hi there, I'm Ray 👋
+
+I'm a full stack Javascript developer passionate about all things coding. Here are some of the technologies I love to work with:
 
 -------------------------------------------------------------
 
