@@ -1,6 +1,8 @@
-### Hi there, I'm Ray 👋
+## Hi I'm Ray 👋
 
-I'm a full stack Javascript developer passionate about all things coding. Here are some of the technologies I love to work with:
+I'm a full stack Javascript developer with a passion for programming. I enjoy exploring, applying and mastering new technologies and ideas whenever I can.
+
+Here are some of the technologies I love to work with:
 
 -------------------------------------------------------------
 
