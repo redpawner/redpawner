@@ -36,9 +36,9 @@
 <a href="https://trello.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Trello-EEEEEE?style=for-the-badge&logo=trello&logoColor=085CD7" alt="Trello"></a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"></a>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Notion-EEEEEE?style=for-the-badge&logo=notion&logoColor=000000" alt="Notion"></a>
-<br>
 <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams"></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </a>
+<br>
 
 
 ### Connect
