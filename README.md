@@ -20,6 +20,7 @@ Here are some of the technologies I love to work with:
 ### Backend
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> </a>
 <a href="https://koajs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/koa-EEEEEE?style=for-the-badge&logo=koa&logoColor=33333D" alt="Koa"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/> </a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Socket.io-EEEEEE?style=for-the-badge&logo=socket.io&logoColor=000000" alt="Socket.io"/> </a>
@@ -37,6 +38,7 @@ Here are some of the technologies I love to work with:
 ### Collaboration
 
 <a href="https://github.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"></a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Trello-EEEEEE?style=for-the-badge&logo=trello&logoColor=085CD7" alt="Trello"></a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"></a>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Notion-EEEEEE?style=for-the-badge&logo=notion&logoColor=000000" alt="Notion"></a>
